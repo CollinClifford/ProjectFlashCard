@@ -8,4 +8,4 @@ In this website users can:
 * delete either card or whole deck.
 * choose a deck and study individual flashcards.
 
-![screenshot](/flashcardapp.png)
+![2021-10-18 (4)](https://user-images.githubusercontent.com/83039749/147858537-2476d05c-bfb3-4c32-80a6-a149a178ea25.png)
